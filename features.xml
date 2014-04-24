@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<featured>
+	<title>Featured Web Sites</title>
+	<description>Web Sites Featured on the Jan's home page</description>
+	<pubDate>December 11, 2008</pubDate>
+	<language>en</language>
+	<item>
+		<title>CYC</title>
+		<companyType>Non-Profit Youth Center</companyType>
+		<link>http://www.janbthomas.com/features/cyc.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/cyc.jpg</image>
+		<website>http://www.cycsf.org/</website>
+		<descItem>Message Board</descItem>
+		<descItem>Dynamic Event Calendar</descItem>
+		<descItem>Photo Gallery</descItem>
+		<descItem>Online Donations</descItem>
+		<descItem>Group Registration</descItem>
+		<description>Community Youth Center is a non-profit organzation that serves asian youth in San Francisco.  This website provides news, information and social networking to the staff, youth members and parents.</description>
+	</item>
+	<item>
+		<title>SONRISAS DENTAL</title>
+		<companyType>Dental Clinic</companyType>
+		<link>http://www.janbthomas.com/features/sonrisasdental.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/sonrisas.jpg</image>
+		<website>N</website>
+		<descItem>Online Donations</descItem>
+		<descItem>Electronic Form</descItem>
+		<descItem>Video Presentation</descItem>
+		<descItem>Graphical Rollovers</descItem>
+		<descItem>Group Registration</descItem>
+		<description>Sonrisas is a dental clinic that serves low income families around Half Moon Bay.  SonrisasDental.org provides news, and education to Sonrisas families and volunteers.</description>
+	</item>
+	<item>
+		<title>ASHBURY IMAGES</title>
+		<companyType>T-shirt, Jacket and Polo Screen Printing</companyType>
+		<link>http://www.janbthomas.com/features/ashburyimages.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/ashburyimages.jpg</image>
+		<website>http://www.ashburyimages.org/</website>
+		<descItem>Special Graphical Effects</descItem>
+		<descItem>Electronic Order Form</descItem>
+		<descItem>Drop-Down Menus</descItem>
+		<descItem>Fixed Pagesize Feature</descItem>
+		<description>Ashbury Images does screen printing of t-shirts, jackets and polo shirts.  AshburyImages.org provides resources for purchasing.  This includes special sales and contact forms.</description>
+	</item>
+	<item>
+		<title>WINTER NIGHTS</title>
+		<companyType>Homeless Shelter</companyType>
+		<link>http://www.janbthomas.com/features/winternights.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/winternights.jpg</image>
+		<website>http://www.cccwinternights.org/</website>
+		<descItem>Graphical HTML Website</descItem>
+		<descItem>Slide Show</descItem>
+		<descItem>Search Engine Optimization</descItem>
+		<description>Winter Nights provides beds for homeless families in the East Bay.  WinterNightsccc.org includes news and information about the opperation of the homeless shelter.</description>
+	</item>
+	<item>
+		<title>ONEACCORD</title>
+		<companyType>Sales and Marketing Consultants</companyType>
+		<link>http://www.janbthomas.com/features/oneaccord.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/oneaccord.jpg</image>
+		<website>N</website>
+		<descItem>WordPress CMS</descItem>
+		<descItem>Animated Flash Banners</descItem>
+		<descItem>Dynamic Content Pages</descItem>
+		<descItem>Electronic Form</descItem>
+		<descItem>Animated News Ticker</descItem>
+		<descItem>Customized Scroll bars</descItem>
+		<description>OneAccord is a sales and marketing company.</description>
+	</item>
+	<item>
+		<title>VOICEDYNAMICS</title>
+		<companyType>Speaking and Communications Education</companyType>
+		<link>http://www.janbthomas.com/features/voicedynamics.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/voicedynamics.jpg</image>
+		<website>N</website>
+		<descItem>eCommerce</descItem>
+		<descItem>Section 508 Compliance</descItem>
+		<descItem>Search Engine Optimization</descItem>
+		<description>Voice and speech education by Carolyn Franklin, a teacher at Foothill College in Los Altos.  VoiceDynamics.net provides an eCommerce site for book and DVD sales.</description>
+	</item>
+	<item>
+		<title>LEARNINGBYTES</title>
+		<companyType>Digital Media Courses</companyType>
+		<link>http://www.janbthomas.com/features/learningbytes.jpg</link>
+		<image>http://www.janbthomas.com/images/websites/learningbytes.jpg</image>
+		<website>http://www.janbthomas.com/portfolio/LearningBytes</website>
+		<descItem>Video Presentations</descItem>
+		<descItem>Section 508 Compliance</descItem>
+		<descItem>Search Engine Optimization</descItem>
+		<description>Learningbytes was a website for Digital Media Coursework.  The program taught video editting, website development, and graphic design to high school students in the San Jose Area.</description>
+	</item>
+</featured>
